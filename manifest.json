@@ -1,0 +1,15 @@
+{
+  "name": "Longest Word Finder",
+  "version": "1.0",
+  "description": "Finds the longest word on the current webpage.",
+  "permissions": ["activeTab","commands"],
+  "background": {
+    "scripts": ["popup.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
