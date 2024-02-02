@@ -9,7 +9,7 @@ Open "Google Chrome" or any other chromium based browser.
 2. Extensions
 3. Make sure "Developer mode" is ON (most common in upper right corner
 4. "Load unpacked"
-5. Navigate to folder and add it
+5. Navigate to folder where you saved files and add it
 
 ## Usage
 1. Click on extensions icon, find "Longest Word Finder" 
